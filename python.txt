@@ -1,0 +1,10 @@
+1. Cài đặt python; cài đặt IDE; Nội dung khóa học
+2. Biến trong Python, kiểu dữ liệu
+3. Các toán tử trong python
+4. Điều kiện trong python
+5. Danh sách/ mảng dữ liệu trong python
+6. Vòng lặp tong python
+7. Dictionary trong python
+8. Hàm trong python
+9. Import modul trong python
+10. Class trong python
