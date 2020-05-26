@@ -1,4 +1,3 @@
-
 #  Code4life TEAM .................................................
 
 #  Khai bao bien
@@ -59,12 +58,13 @@ print(x > 3 or x < 4)
 print(not(x > 3 and x < 10))
 
 # 05_Toan tu xac thuc - Identity Operators (is  is not)
-x = 5
-y = 5
+x = ["Code4Life", "Python", "list"]
+y = ["Code4Life", "Python", "list"]
 z = x
 print(x is z)
 print(x is y)
 print(x == y)
+print(x is not y)
 
 # 06_Toan tu thanh vien - Membership Operators (in  not in)
 x = "code4life"
@@ -72,5 +72,4 @@ print("code" in x)
 print("4" in x)
 print("5" in x)
 print(4 in x)
-
-# 07_Toan tu Bitwise - Bitwise Operators
+print("5" in not x)
